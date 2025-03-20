@@ -140,7 +140,7 @@ An e-commerce platform for product management and cart functionality with **JWT-
 
 - **Email**: [akshaykatla4@gmail.com](mailto:akshaykatla4@gmail.com)
 - **LinkedIn**: [Akshay Katla](http://linkedin.com/in/akshay0404)
-- **GitHub**: [AkshayKumar-bit](https://github.com/AkshayKumar-bit)
+- **GitHub**: [AkshayKatla](https://github.com/AkshayKatla)
 - **Medium**: [Akshaykatla](https://medium.com/@akshaykatla4)
 
 ---
